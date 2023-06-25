@@ -21,7 +21,7 @@ import pandas as pd
           필수 설치 정보
 ------------------------------------
 최종 파일 저장 경로      : ".//results//"
-chromedriver            : 폴더 안에서 이동 금지! 
+chromedriver            : 자동업데이트 패키지 로드로 코드 수정
 필수 설치 패키지         : pip install selenium, pip install BeautifulSoup, pip install pandas
 
 
@@ -29,6 +29,7 @@ chromedriver            : 폴더 안에서 이동 금지!
            코드 정보
 ------------------------------------
 순서대로 실행해야함, 2번 항목이 완료된 경우에는 3번만 진행해도 됨
+# 수행완료 시간 : 최소 1일
 
 # 1. 강좌의 대중소 분류 카테고리를 추출하는 코드
 # (결과물) kocw_강의분류.xlsx
